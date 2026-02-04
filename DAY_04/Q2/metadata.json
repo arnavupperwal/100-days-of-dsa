@@ -1,0 +1,17 @@
+{
+  "day": 4,
+  "question": "2",
+  "problem": {
+    "name": "Remove Element",
+    "link": "https://leetcode.com/problems/remove-element/",
+    "difficulty": "Easy"
+  },
+  "solution": {
+    "explanation": "Keep two indices; copy non‑val elements forward, return new length.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 00:09:25",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
