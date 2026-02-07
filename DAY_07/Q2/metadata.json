@@ -1,0 +1,17 @@
+{
+  "day": 7,
+  "question": "2",
+  "problem": {
+    "name": "Fibonacci Number",
+    "link": "https://leetcode.com/problems/fibonacci-number/",
+    "difficulty": "Easy"
+  },
+  "solution": {
+    "explanation": "Iteratively compute Fibonacci by keeping last two values.\n",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 00:10:56",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
