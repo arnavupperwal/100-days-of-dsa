@@ -1,0 +1,17 @@
+{
+  "day": 8,
+  "question": "2",
+  "problem": {
+    "name": "Power of Two",
+    "link": "https://leetcode.com/problems/power-of-two/",
+    "difficulty": "Easy"
+  },
+  "solution": {
+    "explanation": "Divide n by 2 while even; if it becomes 1 then n is a power of two.",
+    "time_complexity": "O(log n)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 00:11:26",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
