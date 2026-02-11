@@ -1,0 +1,17 @@
+{
+  "day": 11,
+  "question": "2",
+  "problem": {
+    "name": "Transpose Matrix",
+    "link": "https://leetcode.com/problems/transpose-matrix/",
+    "difficulty": "Easy"
+  },
+  "solution": {
+    "explanation": "Allocate a new n×m matrix and fill it by swapping indices.",
+    "time_complexity": "O(n*m)",
+    "space_complexity": "O(n*m)"
+  },
+  "generated_at": "2026-05-02 00:12:55",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
