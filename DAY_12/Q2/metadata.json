@@ -1,0 +1,17 @@
+{
+  "day": 12,
+  "question": "2",
+  "problem": {
+    "name": "Toeplitz Matrix",
+    "link": "https://leetcode.com/problems/toeplitz-matrix/",
+    "difficulty": "Easy"
+  },
+  "solution": {
+    "explanation": "Check each element against the one diagonally up-left; if any differ, not Toeplitz.",
+    "time_complexity": "O(m*n)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 00:13:27",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
