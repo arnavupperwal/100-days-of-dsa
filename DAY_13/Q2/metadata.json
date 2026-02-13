@@ -1,0 +1,17 @@
+{
+  "day": 13,
+  "question": "2",
+  "problem": {
+    "name": "Spiral Matrix",
+    "link": "https://leetcode.com/problems/spiral-matrix/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Iterate layer by layer using four boundaries, appending elements in order until all are visited.",
+    "time_complexity": "O(n*m)",
+    "space_complexity": "O(n*m)"
+  },
+  "generated_at": "2026-05-02 00:14:04",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
