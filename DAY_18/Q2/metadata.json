@@ -1,0 +1,17 @@
+{
+  "day": 18,
+  "question": "2",
+  "problem": {
+    "name": "Product of Array Except Self",
+    "link": "https://leetcode.com/problems/product-of-array-except-self/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Compute prefix products left to right, store in output; then multiply by suffix products right to left.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 00:19:26",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
