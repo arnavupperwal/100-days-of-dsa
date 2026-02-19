@@ -1,0 +1,17 @@
+{
+  "day": 19,
+  "question": "2",
+  "problem": {
+    "name": "Maximum Sum Circular Subarray",
+    "link": "https://leetcode.com/problems/maximum-sum-circular-subarray/description/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Kadane for max and min; answer is max(maxKadane, total-minKadane) unless all negative.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 00:21:14",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
