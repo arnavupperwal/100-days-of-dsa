@@ -1,0 +1,17 @@
+{
+  "day": 29,
+  "question": "2",
+  "problem": {
+    "name": "Add Two Numbers",
+    "link": "https://leetcode.com/problems/add-two-numbers/description/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Traverse both lists adding digits with carry, creating new nodes on the fly.",
+    "time_complexity": "O(max(m,n))",
+    "space_complexity": "O(max(m,n))"
+  },
+  "generated_at": "2026-05-02 00:29:02",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
