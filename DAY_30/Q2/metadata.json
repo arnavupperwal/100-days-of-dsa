@@ -1,0 +1,17 @@
+{
+  "day": 30,
+  "question": "2",
+  "problem": {
+    "name": "Add Two Numbers II",
+    "link": "https://leetcode.com/problems/add-two-numbers-ii/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Store digits in arrays, add from least significant using carry, build result list backwards.",
+    "time_complexity": "O(n+m)",
+    "space_complexity": "O(n+m)"
+  },
+  "generated_at": "2026-05-02 00:29:40",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
