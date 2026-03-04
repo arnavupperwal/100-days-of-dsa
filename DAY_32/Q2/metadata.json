@@ -1,0 +1,17 @@
+{
+  "day": 32,
+  "question": "2",
+  "problem": {
+    "name": "Min Stack",
+    "link": "https://leetcode.com/problems/min-stack/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Store values and current minimum at each index; push updates min, pop decrements top, top/min return stored values.",
+    "time_complexity": "O(1) per operation",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 00:30:55",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
