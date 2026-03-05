@@ -1,0 +1,17 @@
+{
+  "day": 33,
+  "question": "2",
+  "problem": {
+    "name": "Evaluate Reverse Polish Notation",
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Use a fixed-size stack, push numbers, pop two operands for each operator, compute, and push result.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 00:31:30",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
