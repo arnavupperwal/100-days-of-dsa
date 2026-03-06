@@ -1,0 +1,17 @@
+{
+  "day": 34,
+  "question": "2",
+  "problem": {
+    "name": "Basic Calculator II",
+    "link": "https://leetcode.com/problems/basic-calculator-ii/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Iterate once, keep current number, last operand, and result; apply precedence by updating last for * and /, adding last to result for + and -.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 00:32:07",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
