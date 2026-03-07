@@ -1,0 +1,17 @@
+{
+  "day": 35,
+  "question": "2",
+  "problem": {
+    "name": "Implement Queue using Stacks",
+    "link": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "difficulty": "Easy"
+  },
+  "solution": {
+    "explanation": "Use two stacks (linked lists). Push to in. For pop/peek, if out empty, transfer all from in to out. Then pop/peek from out.",
+    "time_complexity": "O(1) amortized per operation",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 00:32:47",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
