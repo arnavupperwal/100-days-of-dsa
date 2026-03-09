@@ -1,0 +1,16 @@
+{
+  "day": 37,
+  "question": "1",
+  "problem": {
+    "title": "Priority Queue Using Array",
+    "description": "Problem Statement:\nImplement a Priority Queue using an array. An element with smaller value has higher priority.\n\nSupported Operations:\n- insert x\n- delete\n- peek\n\nInput Format:\n- First line contains integer N\n- Next N lines contain operations\n\nOutput Format:\n- Print the deleted or peeked element\n- Print -1 if the queue is empty\n\nExample:\nInput:\n5\ninsert 30\ninsert 10\ninsert 20\ndelete\npeek\n\nOutput:\n10\n20"
+  },
+  "solution": {
+    "explanation": "Maintain a sorted array; insert by shifting to keep ascending order, delete/peek from front.",
+    "time_complexity": "O(n) per insert in worst case, O(1) for delete/peek",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 00:33:52",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
