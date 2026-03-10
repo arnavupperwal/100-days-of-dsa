@@ -1,0 +1,17 @@
+{
+  "day": 38,
+  "question": "2",
+  "problem": {
+    "name": "Sliding Window Maximum",
+    "link": "https://leetcode.com/problems/sliding-window-maximum/",
+    "difficulty": "Hard"
+  },
+  "solution": {
+    "explanation": "Brute force: for each window compute max by scanning k elements.",
+    "time_complexity": "O(nk)",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 00:34:57",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
