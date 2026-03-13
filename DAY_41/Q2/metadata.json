@@ -1,0 +1,17 @@
+{
+  "day": 41,
+  "question": "2",
+  "problem": {
+    "name": "Task Scheduler",
+    "link": "https://leetcode.com/problems/task-scheduler/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Count task frequencies, find max frequency and how many tasks have it; compute minimal intervals with formula and compare to total tasks.",
+    "time_complexity": "O(tasksSize)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 00:36:47",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
