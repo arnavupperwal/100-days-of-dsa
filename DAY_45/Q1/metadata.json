@@ -1,0 +1,16 @@
+{
+  "day": 45,
+  "question": "1",
+  "problem": {
+    "title": "Height of a Binary Tree",
+    "description": "Problem Statement:\nFind the height (maximum depth) of a given binary tree.\n\nInput Format:\n- First line contains integer N\n- Second line contains level-order traversal (-1 represents NULL)\n\nOutput Format:\n- Print the height of the tree\n\nExample:\nInput:\n7\n1 2 3 4 5 -1 -1\n\nOutput:\n3"
+  },
+  "solution": {
+    "explanation": "Find the last non‑null element in the level‑order array, then the height is floor(log2(last+1))+1.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 00:39:14",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
