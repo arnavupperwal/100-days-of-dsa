@@ -1,0 +1,16 @@
+{
+  "day": 46,
+  "question": "1",
+  "problem": {
+    "title": "Level Order Traversal",
+    "description": "Problem: Level Order Traversal\n\nImplement the solution for this problem.\n\nInput:\n- Input specifications\n\nOutput:\n- Output specifications"
+  },
+  "solution": {
+    "explanation": "Read the number of nodes and the array representation of the tree, then print the array elements in order which is the level‑order traversal for a complete binary tree stored in an array.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 00:39:42",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}

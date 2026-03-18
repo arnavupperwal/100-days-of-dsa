@@ -1,0 +1,13 @@
+{
+  "day": 46,
+  "question": "2",
+  "problem": {
+    "name": "Binary Tree Level Order Traversal",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "difficulty": "Medium"
+  },
+  "solution": {},
+  "generated_at": "2026-05-02 00:40:01",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
