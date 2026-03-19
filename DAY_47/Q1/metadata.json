@@ -1,0 +1,16 @@
+{
+  "day": 47,
+  "question": "1",
+  "problem": {
+    "title": "Height of Binary Tree",
+    "description": "Problem: Height of Binary Tree\n\nImplement the solution for this problem.\n\nInput:\n- Input specifications\n\nOutput:\n- Output specifications"
+  },
+  "solution": {
+    "explanation": "Build a directed adjacency list from the given edges (parent to child) and perform a DFS from node 1 to compute the maximum depth, which is the tree height.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 00:40:21",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}

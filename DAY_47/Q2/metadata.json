@@ -1,0 +1,17 @@
+{
+  "day": 47,
+  "question": "2",
+  "problem": {
+    "name": "Maximum Depth of Binary Tree",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "difficulty": "Easy"
+  },
+  "solution": {
+    "explanation": "Recursively compute depth of left and right subtrees and add 1 for current node.\n",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(h)"
+  },
+  "generated_at": "2026-05-02 00:40:38",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
