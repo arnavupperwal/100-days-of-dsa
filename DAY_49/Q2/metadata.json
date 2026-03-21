@@ -1,0 +1,17 @@
+{
+  "day": 49,
+  "question": "2",
+  "problem": {
+    "name": "Insert into BST",
+    "link": "https://leetcode.com/problems/insert-into-a-binary-search-tree/description/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Recursively traverse left or right until a NULL spot, then create a new node and attach it.",
+    "time_complexity": "O(h)",
+    "space_complexity": "O(h)"
+  },
+  "generated_at": "2026-05-02 00:41:39",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
