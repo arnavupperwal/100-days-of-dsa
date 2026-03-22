@@ -1,0 +1,16 @@
+{
+  "day": 50,
+  "question": "1",
+  "problem": {
+    "title": "BST Search",
+    "description": "Problem: BST Search\n\nImplement the solution for this problem.\n\nInput:\n- Input specifications\n\nOutput:\n- Output specifications"
+  },
+  "solution": {
+    "explanation": "Read a sorted array and use binary search to determine if the target exists, printing 1 if found else 0.",
+    "time_complexity": "O(log n)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 00:42:03",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
