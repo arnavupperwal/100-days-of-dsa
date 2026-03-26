@@ -1,0 +1,17 @@
+{
+  "day": 54,
+  "question": "2",
+  "problem": {
+    "name": "Binary Tree Zigzag Level Order Traversal",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Breadth‑first search with a queue; reverse each level when needed to achieve zigzag order.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 00:57:16",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
