@@ -1,0 +1,17 @@
+{
+  "day": 56,
+  "question": "2",
+  "problem": {
+    "name": "Symmetric Tree",
+    "link": "https://leetcode.com/problems/symmetric-tree/",
+    "difficulty": "Easy"
+  },
+  "solution": {
+    "explanation": "Iteratively compare mirrored nodes using two pointers, swapping sides each step.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 00:58:36",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
