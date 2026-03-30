@@ -1,0 +1,17 @@
+{
+  "day": 58,
+  "question": "2",
+  "problem": {
+    "name": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Recursively split preorder and inorder arrays around the root found in inorder; build left and right subtrees using subarray sizes.",
+    "time_complexity": "O(n^2)",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 01:00:04",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
