@@ -1,0 +1,17 @@
+{
+  "day": 60,
+  "question": "2",
+  "problem": {
+    "name": "Binary Tree Cameras",
+    "link": "https://leetcode.com/problems/binary-tree-cameras/",
+    "difficulty": "Hard"
+  },
+  "solution": {
+    "explanation": "Post‑order DFS returns state of each node; place camera when a child needs one, otherwise propagate coverage; finally add camera for root if still uncovered.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(h) (recursion stack)"
+  },
+  "generated_at": "2026-05-02 01:01:26",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
