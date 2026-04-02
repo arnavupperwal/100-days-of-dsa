@@ -1,0 +1,16 @@
+{
+  "day": 61,
+  "question": "1",
+  "problem": {
+    "title": "Graph Representation Using Adjacency Matrix",
+    "description": "Problem: Build a graph with n vertices and m edges using adjacency matrix representation.\nThe graph may be directed or undirected.\n\nInput:\n- n (vertices)\n- m (edges)\n- m pairs (u, v)\n\nOutput:\n- n x n adjacency matrix"
+  },
+  "solution": {
+    "explanation": "Read n and m, initialize a 100x100 matrix to 0, set entries for each edge (both directions for undirected), then print the matrix.",
+    "time_complexity": "O(n^2 + m)",
+    "space_complexity": "O(n^2)"
+  },
+  "generated_at": "2026-05-02 01:01:42",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}

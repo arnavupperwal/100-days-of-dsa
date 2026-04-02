@@ -1,0 +1,17 @@
+{
+  "day": 61,
+  "question": "2",
+  "problem": {
+    "name": "Number of Provinces",
+    "link": "https://leetcode.com/problems/number-of-provinces/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "DFS over adjacency matrix, counting connected components.",
+    "time_complexity": "O(n^2)",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 01:01:57",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
