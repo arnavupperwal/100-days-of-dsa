@@ -1,0 +1,17 @@
+{
+  "day": 64,
+  "question": "2",
+  "problem": {
+    "name": "Rotting Oranges",
+    "link": "https://leetcode.com/problems/rotting-oranges/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "BFS from all initially rotten oranges, spreading to fresh ones each minute, counting minutes until no fresh left.",
+    "time_complexity": "O(m*n)",
+    "space_complexity": "O(m*n)"
+  },
+  "generated_at": "2026-05-02 01:03:49",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
