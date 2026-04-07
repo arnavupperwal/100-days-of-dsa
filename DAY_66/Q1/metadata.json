@@ -1,0 +1,16 @@
+{
+  "day": 66,
+  "question": "1",
+  "problem": {
+    "title": "Cycle Detection in Directed Graph",
+    "description": "Problem: Detect cycle in directed graph using DFS and recursion stack.\n\nOutput:\n- YES if cycle exists"
+  },
+  "solution": {
+    "explanation": "DFS is run on each unvisited vertex; a back edge to a vertex in the current recursion stack indicates a cycle.",
+    "time_complexity": "O(n+m)",
+    "space_complexity": "O(n+m)"
+  },
+  "generated_at": "2026-05-02 01:05:04",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
