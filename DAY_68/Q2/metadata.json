@@ -1,0 +1,13 @@
+{
+  "day": 68,
+  "question": "2",
+  "problem": {
+    "name": "Alien Dictionary",
+    "link": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
+    "difficulty": "Hard"
+  },
+  "solution": {},
+  "generated_at": "2026-05-02 01:07:17",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
