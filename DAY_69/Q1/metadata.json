@@ -1,0 +1,16 @@
+{
+  "day": 69,
+  "question": "1",
+  "problem": {
+    "title": "Dijkstraâ€™s Algorithm (Shortest Path)",
+    "description": "Problem: Given weighted graph with non-negative edges, compute shortest path from source using priority queue."
+  },
+  "solution": {
+    "explanation": "Uses Dijkstra with adjacency matrix and linear scan for the minimum distance vertex, suitable for small graphs.",
+    "time_complexity": "O(n^2 + m)",
+    "space_complexity": "O(n^2)"
+  },
+  "generated_at": "2026-05-02 01:07:35",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}

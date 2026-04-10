@@ -1,0 +1,17 @@
+{
+  "day": 69,
+  "question": "2",
+  "problem": {
+    "name": "Network Delay Time",
+    "link": "https://leetcode.com/problems/network-delay-time/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Use O(n^2) Dijkstra with adjacency matrix: initialize distances, repeatedly pick the closest unvisited node and relax its outgoing edges. Return the maximum distance or -1 if any node is unreachable.",
+    "time_complexity": "O(n^2)",
+    "space_complexity": "O(n^2)"
+  },
+  "generated_at": "2026-05-02 01:08:03",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
