@@ -1,0 +1,17 @@
+{
+  "day": 71,
+  "question": "2",
+  "problem": {
+    "name": "Min Cost to Connect All Points",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Prim’s algorithm: repeatedly pick the closest unvisited point, add its cost, and relax distances to remaining points.",
+    "time_complexity": "O(n^2)",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 01:09:37",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
