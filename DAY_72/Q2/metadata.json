@@ -1,0 +1,17 @@
+{
+  "day": 72,
+  "question": "2",
+  "problem": {
+    "name": "Travelling Salesman Problem",
+    "link": "https://www.geeksforgeeks.org/problems/travelling-salesman-problem2732/1",
+    "difficulty": "Hard"
+  },
+  "solution": {
+    "explanation": "Brute‑force DFS over all permutations, tracking visited cities with a bitmask and updating the best cost when all cities are visited.",
+    "time_complexity": "O(n! * n)",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 01:10:09",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
