@@ -1,0 +1,17 @@
+{
+  "day": 73,
+  "question": "2",
+  "problem": {
+    "name": "Redundant Connection",
+    "link": "https://leetcode.com/problems/redundant-connection/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Use Union‑Find: add edges, if endpoints already connected return that edge.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 01:10:43",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
