@@ -1,0 +1,17 @@
+{
+  "day": 76,
+  "question": "2",
+  "problem": {
+    "name": "Clone Graph",
+    "link": "https://leetcode.com/problems/clone-graph/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "DFS with a static array mapping node values to clones; each node is cloned once and neighbors are recursively cloned.",
+    "time_complexity": "O(V+E)",
+    "space_complexity": "O(V)"
+  },
+  "generated_at": "2026-05-02 01:12:40",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
