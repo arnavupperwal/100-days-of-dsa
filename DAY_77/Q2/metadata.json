@@ -1,0 +1,17 @@
+{
+  "day": 77,
+  "question": "2",
+  "problem": {
+    "name": "Critical Connections in a Network",
+    "link": "https://leetcode.com/problems/critical-connections-in-a-network/",
+    "difficulty": "Hard"
+  },
+  "solution": {
+    "explanation": "Brute‑force: for each edge remove it, run BFS to see if all nodes remain connected; if not, the edge is critical.",
+    "time_complexity": "O(m*(n+m))",
+    "space_complexity": "O(n+m)"
+  },
+  "generated_at": "2026-05-02 01:13:23",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}

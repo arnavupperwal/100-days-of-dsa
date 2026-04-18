@@ -1,0 +1,16 @@
+{
+  "day": 77,
+  "question": "1",
+  "problem": {
+    "title": "Check if Graph is Connected",
+    "description": "Problem Statement\nUsing BFS or DFS, check if the entire graph is connected.\n\nInput Format\nn m\nedges\n\nOutput Format\nCONNECTED\nNOT CONNECTED\n\nSample Input\n4 2\n1 2\n3 4\n\nSample Output\nNOT CONNECTED"
+  },
+  "solution": {
+    "explanation": "Build an adjacency matrix, perform BFS from vertex 1, count visited vertices, and compare with total vertices.",
+    "time_complexity": "O(n^2)",
+    "space_complexity": "O(n^2)"
+  },
+  "generated_at": "2026-05-02 01:13:02",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
