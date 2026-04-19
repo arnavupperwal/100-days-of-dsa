@@ -1,0 +1,17 @@
+{
+  "day": 78,
+  "question": "2",
+  "problem": {
+    "name": "Articulation Points (GFG)",
+    "link": "https://practice.geeksforgeeks.org/problems/articulation-point-1/1",
+    "difficulty": "Hard"
+  },
+  "solution": {
+    "explanation": "DFS with discovery/low times; a vertex is an articulation point if it is root with >1 child or a non-root where low[child] >= disc[u].",
+    "time_complexity": "O(V+E)",
+    "space_complexity": "O(V+E)"
+  },
+  "generated_at": "2026-05-02 01:14:03",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
