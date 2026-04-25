@@ -1,0 +1,16 @@
+{
+  "day": 84,
+  "question": "1",
+  "problem": {
+    "title": "Implement Insertion Sort",
+    "description": "Problem: Implement Insertion Sort - Implement the algorithm.\n\nInput:\n- First line: integer n\n- Second line: n space-separated integers\n\nOutput:\n- Print the sorted array or search result\n\nExample:\nInput:\n5\n64 34 25 12 22\n\nOutput:\n12 22 25 34 64"
+  },
+  "solution": {
+    "explanation": "The program reads n and the array, then performs insertion sort by moving elements greater than the key to the right and inserting the key in its correct position. Finally it prints the sorted array.",
+    "time_complexity": "O(n^2)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 01:17:31",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
