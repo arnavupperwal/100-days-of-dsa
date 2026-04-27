@@ -1,0 +1,17 @@
+{
+  "day": 86,
+  "question": "2",
+  "problem": {
+    "name": "Sqrt(x)",
+    "link": "https://leetcode.com/problems/sqrtx/",
+    "difficulty": "Easy"
+  },
+  "solution": {
+    "explanation": "Increment i until i*i exceeds x, then return i-1 as floor(sqrt(x)).",
+    "time_complexity": "O(sqrt(x))",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 01:18:45",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
