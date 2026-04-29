@@ -1,0 +1,17 @@
+{
+  "day": 88,
+  "question": "2",
+  "problem": {
+    "name": "Magnetic Force Between Two Balls",
+    "link": "https://leetcode.com/problems/magnetic-force-between-two-balls/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Sort positions, binary search the maximum minimum distance that allows placing k+1 balls by greedy placement.",
+    "time_complexity": "O(n log n)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 01:19:52",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
