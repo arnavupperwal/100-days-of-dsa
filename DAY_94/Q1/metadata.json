@@ -1,0 +1,16 @@
+{
+  "day": 94,
+  "question": "1",
+  "problem": {
+    "title": "Counting Sort Implementation",
+    "description": "Problem: Sort array of non-negative integers using counting sort.\nFind max, build freq array, compute prefix sums, build output."
+  },
+  "solution": {
+    "explanation": "Count each value, then rebuild the array in ascending order using the frequencies.",
+    "time_complexity": "O(n + k)",
+    "space_complexity": "O(k)"
+  },
+  "generated_at": "2026-05-02 01:23:03",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}

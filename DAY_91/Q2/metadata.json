@@ -1,0 +1,17 @@
+{
+  "day": 91,
+  "question": "2",
+  "problem": {
+    "name": "Sort Colors",
+    "link": "https://leetcode.com/problems/sort-colors/",
+    "difficulty": "Medium"
+  },
+  "solution": {
+    "explanation": "Count 0s,1s,2s then overwrite array.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 01:21:40",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}

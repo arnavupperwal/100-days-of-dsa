@@ -1,0 +1,8 @@
+Day 95 - Question 1
+==================================================
+
+Title: Bucket Sort (Float Values 0–1)
+
+Description:
+Problem: Given n real numbers in [0,1), sort using bucket sort algorithm.
+Distribute into buckets, sort each, concatenate.

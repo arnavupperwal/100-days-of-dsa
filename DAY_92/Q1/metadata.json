@@ -1,0 +1,16 @@
+{
+  "day": 92,
+  "question": "1",
+  "problem": {
+    "title": "Quick Sort Implementation",
+    "description": "Problem: Implement Quick Sort using partition method (Lomuto or Hoare)."
+  },
+  "solution": {
+    "explanation": "Read n and the array, apply quicksort with Lomuto partition, then print sorted array.",
+    "time_complexity": "O(n log n) average, O(n^2) worst",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 01:21:59",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}

@@ -1,0 +1,17 @@
+{
+  "day": 95,
+  "question": "2",
+  "problem": {
+    "name": "Maximum Gap",
+    "link": "https://leetcode.com/problems/maximum-gap/",
+    "difficulty": "Hard"
+  },
+  "solution": {
+    "explanation": "Bucket sort based on pigeonhole principle: place numbers into buckets, track min/max per bucket, then compute max gap between consecutive non-empty buckets.",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 01:24:01",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}

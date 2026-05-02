@@ -1,0 +1,16 @@
+{
+  "day": 93,
+  "question": "1",
+  "problem": {
+    "title": "Insertion Sort Implementation",
+    "description": "Problem: Sort an array using insertion sort.\nStable sort. Good for nearly sorted arrays."
+  },
+  "solution": {
+    "explanation": "Read the array, then for each element shift larger elements right and insert the key—classic insertion sort.",
+    "time_complexity": "O(n^2)",
+    "space_complexity": "O(1)"
+  },
+  "generated_at": "2026-05-02 01:22:32",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}

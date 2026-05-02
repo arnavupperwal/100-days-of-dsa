@@ -1,0 +1,7 @@
+Day 95 - Question 2
+==================================================
+
+Name: Maximum Gap
+
+Link: https://leetcode.com/problems/maximum-gap/
+Difficulty: Hard

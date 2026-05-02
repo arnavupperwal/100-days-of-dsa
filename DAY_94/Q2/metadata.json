@@ -1,0 +1,17 @@
+{
+  "day": 94,
+  "question": "2",
+  "problem": {
+    "name": "Relative Sort Array",
+    "link": "https://leetcode.com/problems/relative-sort-array/",
+    "difficulty": "Easy"
+  },
+  "solution": {
+    "explanation": "Count frequencies of arr1, output elements in arr2 order, then remaining values in ascending order.",
+    "time_complexity": "O(n+m+1000)",
+    "space_complexity": "O(1000)"
+  },
+  "generated_at": "2026-05-02 01:23:22",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}

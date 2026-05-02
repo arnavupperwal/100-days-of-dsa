@@ -1,0 +1,16 @@
+{
+  "day": 96,
+  "question": "1",
+  "problem": {
+    "title": "Counting Inversions in Array",
+    "description": "Problem: Count number of inversions using modified merge sort.\nInversion if i < j and a[i] > a[j]."
+  },
+  "solution": {
+    "explanation": "Use merge sort; during merge count how many elements from the left half are greater than a right element, adding to inversion count.",
+    "time_complexity": "O(n log n)",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 01:24:20",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}

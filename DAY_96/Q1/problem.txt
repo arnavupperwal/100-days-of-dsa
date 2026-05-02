@@ -1,0 +1,8 @@
+Day 96 - Question 1
+==================================================
+
+Title: Counting Inversions in Array
+
+Description:
+Problem: Count number of inversions using modified merge sort.
+Inversion if i < j and a[i] > a[j].

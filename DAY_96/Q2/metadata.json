@@ -1,0 +1,17 @@
+{
+  "day": 96,
+  "question": "2",
+  "problem": {
+    "name": "Reverse Pairs",
+    "link": "https://leetcode.com/problems/reverse-pairs/",
+    "difficulty": "Hard"
+  },
+  "solution": {
+    "explanation": "Use divide‑and‑conquer merge sort; during merge count cross‑inversions where left element > 2*right element.",
+    "time_complexity": "O(n log n)",
+    "space_complexity": "O(n)"
+  },
+  "generated_at": "2026-05-02 01:24:37",
+  "model": "openai/gpt-oss-20b:free",
+  "language": "C"
+}
